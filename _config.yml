@@ -1,14 +1,14 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Leseliste
+email: jens@schauderhaft.de
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Dies ist eine Liste von Büchern, die Lara, Finn und Jens Schauder
+  gelesen haben, lesen oder noch lesen wollen.
+  Links hinter den Bücher führen auf Amazon.de und wir bekommen eventuell irgendwann
+  einen Gutschein dafür :)
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: jensschauder
+github_username:  schauder
 
 # Build settings
 # no code highlighting for now, since it does not work on windows. see for example http://stackoverflow.com/questions/17364028/jekyll-on-windows-pygments-not-working/17404260#17404260 

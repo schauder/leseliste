@@ -7,7 +7,7 @@ categories: tier kaninchen
 [Unten am Fluss](http://amzn.to/1WTb0va) beschreibt die Geschichte einer Gruppe von Kaninchen, 
 die ihren Bau verlassen um eine neue Heimat zu suchen.
 
-![Unten am Fluss](/assets/unten-am-fluss.jpg)
+![Unten am Fluss]({{ "/assets/unten-am-fluss.jpg" | prepend: site.github.url }})
 
 Lara
 ----

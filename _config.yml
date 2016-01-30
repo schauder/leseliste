@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   gelesen haben, lesen oder noch lesen wollen.
   Links hinter den Bücher führen auf Amazon.de und wir bekommen eventuell irgendwann
   einen Gutschein dafür :)
-baseurl: {{site.github.url}} # the subpath of your site, e.g. /blog/
+# baseurl: {{site.github.url}} # the subpath of your site, e.g. /blog/
 twitter_username: jensschauder
 github_username:  schauder
 

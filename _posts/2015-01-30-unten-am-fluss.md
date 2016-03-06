@@ -9,9 +9,11 @@ die ihren Bau verlassen um eine neue Heimat zu suchen.
 
 ![Unten am Fluss]({{ "/assets/unten-am-fluss.jpg" | prepend: site.github.url }})
 
+<div class="lara" markdown="1">
 Lara
 ----
 Eine spannende Geschichte: **3/5**
+</div>
 
 Finn
 ----
